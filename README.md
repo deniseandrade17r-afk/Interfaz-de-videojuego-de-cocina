@@ -2,8 +2,8 @@
 Interfaz de videojuego de cocina
 
 Realizado por:
-Sánchez Valenzuela Natalia Guadalupe
-Rodríguez Andrade Denise Abigail
+- Sánchez Valenzuela Natalia Guadalupe
+- Rodríguez Andrade Denise Abigail
 
 En este trabajo se implementó la interfaz para un videojuego de cocina y alquimia (Alquimia Chef). El sistema muestra cómo el usuario gestiona la preparación de platillos mágicos, atiende los pedidos de los clientes en tiempo real y administra sus recursos dentro del taller de cocina.
 
